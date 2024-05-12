@@ -2,7 +2,8 @@
 
  <h1 align="center">Hi 👋, I'm Nishant</h1>
 <h3 align="center">👨‍💻 Full Stack Web Developer | Building Bridges Between Bits and Pixels 🌉💻</h3>
-<img src=“https://raw.githubusercontent.com/nikunj-4u/toDo/main/code.gif” alt=“coding” >
+<img src="https://raw.githubusercontent.com/nikunj-4u/toDo/main/code.gif" alt="coding">
+
 
 - 🔭 I’m currently working on **Book Store Website using MERN stack**
 
