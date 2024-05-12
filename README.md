@@ -1,6 +1,6 @@
-<img src=“https://raw.githubusercontent.com/nikunj-4u/toDo/main/Nishant-12-05-2024.gif” alt=“Name”/> <h1 align="center">Hi 👋, I'm Nishant</h1>
+<img src=“https://raw.githubusercontent.com/nikunj-4u/toDo/main/Nishant-12-05-2024.gif” alt=“Name”> <h1 align="center">Hi 👋, I'm Nishant</h1>
 <h3 align="center">👨‍💻 Full Stack Web Developer | Building Bridges Between Bits and Pixels 🌉💻</h3>
-<img src=“https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif” alt=“coding” width=“400” align=“right”/>
+<img src=“https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif” alt=“coding” width=“400” align=“right”>
 - 🔭 I’m currently working on **Book Store Website using MERN stack**
 
 - 🌱 I’m currently learning **Node JS**
